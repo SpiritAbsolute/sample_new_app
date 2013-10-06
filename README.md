@@ -1,5 +1,6 @@
-# Перевод Ruby on Rails Tutorial: пример приложения
+Небольшой блог, состоящий из:
 
-Это пример приложения для
-[*Перевод Ruby on Rails Tutorial: Изучение Rails на Примерах*](http://railstutorial.org/)
-by [Майкл Хартл](http://michaelhartl.com/).
+Посты (статьи).
+Авторы.
+Теги.
+Комментарии.
